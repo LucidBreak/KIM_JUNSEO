@@ -1,4 +1,6 @@
 # 오픈소스_	[과제2] README 파일 작성하기
+![리눅스-기본-명령어 -모음](https://github.com/LucidBreak/KIM_JUNSEO/assets/163369512/ff44df4f-520e-492d-8061-7365d18322c9)
+
 ---
 
 ### top 명령어
